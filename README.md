@@ -6,4 +6,4 @@ From [WordPress.com's documentation on Subdomains](http://en.support.wordpress.c
 
 This is a problem when we'd like [http://www.g4hsk.co.uk/](http://www.g4hsk.co.uk/) to stay working!
 
-So this Heroku app should be on the other end of www. and issue an appropriate redirect.
+So this Heroku app should be on the other end of www. and issue compatibility redirects to the WordPress site now at [http://radio.g4hsk.co.uk/](http://radio.g4hsk.co.uk/).
